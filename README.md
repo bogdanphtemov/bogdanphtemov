@@ -45,5 +45,7 @@ I am a programmer learning artificial intelligence and machine learning. I start
 ## Contacts
 
 GitHub:https://github.com/bogdanphtemov
+
 Email:linexsisys@gmail.com
+
 Instagram:linuxoidbogdan
