@@ -14,3 +14,8 @@ I am a programmer learning artificial intelligence and machine learning. I start
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,sqlite,pycharm&perline=4" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white">
+</p>
