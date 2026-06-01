@@ -19,3 +19,12 @@ I am a programmer learning artificial intelligence and machine learning. I start
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white">
 </p>
+
+## Main projects
+
+1.[Command-line-tools](https://github.com/bogdanphtemov/Command_line_tools) This is a learning project — a set of CLI tools focused on machine learning algorithms.
+
+2.will be soon
+
+3.will be soon
+
