@@ -12,7 +12,7 @@ I am a programmer learning artificial intelligence and machine learning. I start
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,ubuntu,windows,bash,powershell,sqlite,pycharm&perline=4" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,ubuntu,windows,bash,powershell,sqlite,pycharm,discord&perline=4" />
 </p>
 
 <p align="center">
