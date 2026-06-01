@@ -28,3 +28,16 @@ I am a programmer learning artificial intelligence and machine learning. I start
 
 3.will be soon
 
+## Goals
+
+• Becoming a good AI developer
+
+• To make a significant contribution to the development of general artificial intelligence
+
+• Learn neural networks and neurobiology
+
+## Github Status
+
+![Stats](https://github-readme-stats.vercel.app/api?username=bogdanphtemov&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdanphtemov)
