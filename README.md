@@ -3,6 +3,7 @@
 <p align="center">
 Programmer • AI Enthusiast • open source lover
 </p>
+
 ---
 
 # a little about me:
