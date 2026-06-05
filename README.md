@@ -37,12 +37,6 @@ I am a programmer learning artificial intelligence and machine learning. I start
 
 • Learn neural networks and neurobiology
 
-## Github Status
-
-![Stats](https://github-readme-stats.vercel.app/api?username=bogdanphtemov&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bogdanphtemov)
-
 ## Contacts
 
 GitHub:https://github.com/bogdanphtemov
