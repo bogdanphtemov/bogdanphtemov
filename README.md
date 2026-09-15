@@ -26,9 +26,9 @@ I am a programmer learning artificial intelligence and machine learning. I start
 
 1. [Command-line-tools](https://github.com/bogdanphtemov/Command_line_tools) - This is a learning project — a set of CLI tools focused on machine learning algorithms.
 
-2. [@bogdanphtemov/LifeQuest](https://github.com/bogdanphtemov/LifeQuest) - A gamified life management application that helps track goals, habits, and personal growth through game mechanics.
+2. [LifeQuest](https://github.com/bogdanphtemov/LifeQuest) - A gamified life management application that helps track goals, habits, and personal growth through game mechanics.
 
-3. [@bogdanphtemov/artificial-brain](https://github.com/bogdanphtemov/artificial-brain) - An AI-powered personal assistant project exploring neural networks and intelligent decision-making systems.
+3. [artificial-brain](https://github.com/bogdanphtemov/artificial-brain) - An AI-powered personal assistant project exploring neural networks and intelligent decision-making systems.
 
 ## My Website
 
