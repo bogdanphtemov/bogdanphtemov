@@ -7,7 +7,8 @@ Programmer • AI Enthusiast • open source lover
 ---
 
 # a little about me:
-I am a programmer learning artificial intelligence and machine learning. I started programming at the age of 13, so I currently have one and a half years of experience in studying programming. Right now, I am striving to gain practical experience. My main goal in programming is to help create artificial general intelligence.
+I am a programmer learning artificial intelligence and machine learning. I started programming at the age of 13, so I currently have one and a half years of experience in studying programming. Right now I'm focusing on creating projects related to AI/ML and improving my programming skills.
+
 ---
 
 ## Technologies
@@ -23,11 +24,15 @@ I am a programmer learning artificial intelligence and machine learning. I start
 
 ## Main projects
 
-1.[Command-line-tools](https://github.com/bogdanphtemov/Command_line_tools) This is a learning project — a set of CLI tools focused on machine learning algorithms.
+1. [Command-line-tools](https://github.com/bogdanphtemov/Command_line_tools) - This is a learning project — a set of CLI tools focused on machine learning algorithms.
 
-2.will be soon
+2. [@bogdanphtemov/LifeQuest](https://github.com/bogdanphtemov/LifeQuest) - A gamified life management application that helps track goals, habits, and personal growth through game mechanics.
 
-3.will be soon
+3. [@bogdanphtemov/artificial-brain](https://github.com/bogdanphtemov/artificial-brain) - An AI-powered personal assistant project exploring neural networks and intelligent decision-making systems.
+
+## My Website
+
+• [Portfolio & Blog](https://bogdanphtemov.github.io) - Visit my personal website to learn more about my projects and thoughts
 
 ## Goals
 
@@ -39,8 +44,8 @@ I am a programmer learning artificial intelligence and machine learning. I start
 
 ## Contacts
 
-GitHub:https://github.com/bogdanphtemov
+GitHub: https://github.com/bogdanphtemov
 
-Email:linexsisys@gmail.com
+Email: linexsisys@gmail.com
 
-Instagram:linuxoidbogdan
+Instagram: linuxoidbogdan
